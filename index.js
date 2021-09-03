@@ -2,4 +2,4 @@ function sum(a, b) {
     return a + b;
 }
 
-module.exports = true;
+module.exports = sum;

@@ -1,7 +1,7 @@
 {
-  "name": "example-package",
+  "name": "@mansisindhu/example-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "fw11_093",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mansisindhu/npm-package.git"
   },
-  "author": "",
+  "author": "mansi sindhu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mansisindhu/npm-package/issues"
